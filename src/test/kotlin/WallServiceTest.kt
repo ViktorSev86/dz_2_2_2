@@ -69,7 +69,7 @@ class WallServiceTest {
         service.add(Post(0, 4567, 3567, 4356, 345678956, "Текст поста 2",
             4567, 5467, true, comments2, copiright2, likes2, reposts2, views2,
             "copy", 9876, true, true, true, true, true,
-            true, donut2, 4567
+            true, donut2, 4467
         ))
 
         val update = Post(2, 3535, 4444, 8989, 456567788, "Текст поста 1",
